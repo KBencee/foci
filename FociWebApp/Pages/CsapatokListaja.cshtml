@@ -1,0 +1,12 @@
+﻿@page
+@model FociWebApp.Pages.CsapatokListajaModel
+@{
+    ViewData["Title"] = "Csapatok listája";
+}
+<h1>Csapatok listája</h1>
+<ul>
+    @foreach (var csapat in Model.Csapatok)
+    {
+        <li>@csapat</li>
+    }
+</ul>

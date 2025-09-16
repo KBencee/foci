@@ -32,6 +32,14 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/kiss.bence/source/repos/FociWebApp/FociWebApp/Pages/CsapatEredmenyei.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3NhcGF0RXJlZG1lbnllaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kiss.bence/source/repos/FociWebApp/FociWebApp/Pages/CsapatokListaja.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3NhcGF0b2tMaXN0YWphLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/kiss.bence/source/repos/FociWebApp/FociWebApp/Pages/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,6 +54,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/kiss.bence/source/repos/FociWebApp/FociWebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kiss.bence/source/repos/FociWebApp/FociWebApp/Pages/Fordulok.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9yZHVsb2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kiss.bence/source/repos/FociWebApp/FociWebApp/Pages/Index.cshtml]
